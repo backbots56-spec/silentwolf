@@ -166,5 +166,5 @@ WOLFBOT runs on all major platforms:
 <p align="center">
   <strong><span style="color:#00ff41">WOLF</span>BOT by <span style="color:#00ff41">Silent Wolf</span></strong>
   <br>
-  <sub>POWERED BY WOLF TECH — Silent Wolf WhatsApp Bot (WOLFBOT) © 2025</sub>
+  <sub>POWERED BY WOLF TECH — Silent Wolf WhatsApp Bot (WOLFBOT) © 2026</sub>
 </p>
